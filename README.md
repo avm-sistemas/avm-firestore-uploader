@@ -10,6 +10,17 @@ This is a utility software in webapi restfull format for firebase to submit data
 ```bash
 $ npm install
 ```
+## Configure your Firebase App
+
+- Go to Configuration Section at Google Firebase
+  - Create a Service Account
+  - Generate Private Key
+  - Put it on /src/config/adminsdk.json
+
+- Open [Goggle Cloud Console](https://console.cloud.google.com/)
+  - Select your project
+  - Go to API section
+  - Activate Google Firestore api
 
 ## Compile and run the project
 
