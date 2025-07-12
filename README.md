@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a utility software for firebase to submit data files in json format to a firestore database.
+This is a utility software in webapi restfull format for firebase to submit data files in json format to a firestore database.
 
 ## Project setup
 
@@ -35,6 +35,13 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+```
+
+## Swagger
+
+```bash
+# swagger endpoint
+$ http://localhost:3000/docs
 ```
 
 ## License
