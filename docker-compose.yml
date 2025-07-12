@@ -1,0 +1,7 @@
+services:
+    uploader:
+      build: '.'
+      ports:
+        - 3000:3000
+      environment:
+        - FIREBASE_SERVICE_ACCOUNT_PATH=/home/avmesquita/_projects/_github/avm-firestore-uploader/src/config/adminsdk.json
