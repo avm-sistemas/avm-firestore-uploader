@@ -49,3 +49,7 @@ $ http://localhost:3000/docs
 [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 
 <!-- GitAds-Verify: 2VOBUEEIDFNQI71GYYI1FATGLR9UL92G -->
+## GitAds Sponsored
+
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=avm-sistemas/avm-firestore-uploader@github)](https://gitads.dev/v1/ad-track?source=avm-sistemas/avm-firestore-uploader@github)
+
