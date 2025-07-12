@@ -47,3 +47,5 @@ $ http://localhost:3000/docs
 ## License
 
 [GNU GENERAL PUBLIC LICENSE](./LICENSE).
+
+<!-- GitAds-Verify: 2VOBUEEIDFNQI71GYYI1FATGLR9UL92G -->
