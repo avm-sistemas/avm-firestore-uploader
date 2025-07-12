@@ -1,0 +1,35 @@
+[
+  {
+     "publishedDate":"2023-06-20 15:27:14",
+     "title":"Sample 1",
+     "slug":"sample",
+     "body":"Sample 1<br>",
+     "description":"Sample 1",
+     "tags":[
+        "sample"
+     ],
+     "createdAt":"2015-06-04 02:27:14",
+     "updatedAt":"2015-06-04 02:27:14",
+     "likes":0,
+     "headerImage":"",
+     "isPublished":true,
+     "id_html":"sample1"
+  },
+  {
+     "publishedDate":"2023-06-20 15:27:14",
+     "title":"Sample 2",
+     "slug":"sample",
+     "body":"Sample 2<br>",
+     "description":"Sample 2",
+     "tags":[
+        "sample"
+     ],
+     "createdAt":"2015-06-04 02:27:14",
+     "updatedAt":"2015-06-04 02:27:14",
+     "likes":0,
+     "headerImage":"",
+     "isPublished":true,
+     "id_html":"sample2"
+  }
+
+]
